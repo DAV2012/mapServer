@@ -1,0 +1,13 @@
+.App {
+
+  width: 100vw;
+}
+
+.App-logo {
+  margin: 0;
+  pointer-events: none;
+}
+
+.Json {
+  text-align: left;
+}
